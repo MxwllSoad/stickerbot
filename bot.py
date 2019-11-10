@@ -2,7 +2,7 @@
 #import redis
 import os
 
-token = os.environ['TELEGRAM_TOKEN']
+token = os.environ['1006833646:AAEeOA_XXy3QCUfe-bvEtHfDRbzcRPdbOkY']
 
 import numpy as np
 import random
